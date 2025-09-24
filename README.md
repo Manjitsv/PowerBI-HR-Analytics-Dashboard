@@ -18,9 +18,9 @@ This HR Analytics Dashboard was built to analyze and monitor employee attrition 
 - `Screenshot/` → Dashboard visuals  
 
 ## 📸 Dashboard Preview
-*<img width="1115" height="627" alt="Screenshot" src="https://github.com/user-attachments/assets/bc8672b3-c980-4013-896c-4d4e4a277e4d" />
-*  
+<img width="1114" height="623" alt="Screenshot" src="https://github.com/user-attachments/assets/c0376cbd-bb27-419e-85b2-46838c2d8112" />
 
+  
 ## 🚀 Learnings
 Through this project, I learned how to:
 
